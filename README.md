@@ -17,7 +17,7 @@ Customers could react totally different towards certain offers from sellers. Pro
 How can we get target customer group? How can we decide on whether a transaction was motivated by a coupon? How does the target group look like? Driven by those questions, I started a data science project using simulated historical offer data sets provided by Starbucks. 
 
 ## File Description
-There is 1 notebooks available here to showcase work related to the above subject. All of the questions are solved. The Python script includes data and package loading, exploratory analysis, data cleaning, transformation to solve problems and whole process of building unsupervised predictive models, K-means Clustering. Every step was written in a function to make codes modular. 
+There is 1 python script available here to showcase work related to the above subject. All of the questions are solved. The Python script includes data and package loading, exploratory analysis, data cleaning, transformation to solve problems and whole process of building unsupervised predictive models, K-means Clustering. Every step was written in a function to make codes modular. 
 
 ## Results
 The main findings of the code can be found at the post available [here](https://medium.com/@rensiningaria/how-to-get-target-customers-by-analyzing-historical-offer-da707717d8a4).
